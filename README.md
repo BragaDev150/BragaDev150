@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00BFFF&height=200&section=header&text=Igor%20Delfino%20Braga&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00BFFF&height=200&width=1000&section=header&animation=fadeIn)
 <div align="center">
  
 # Olá, eu sou Igor Delfino Braga! 👋
