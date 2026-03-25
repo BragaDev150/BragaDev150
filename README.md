@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00BFFF&height=200&section=header&text=Igor%20Delfino%20Braga&fontSize=40&fontColor=ffffff&animation=fadeIn)
 <div align="center">
  
 # Olá, eu sou Igor Delfino Braga! 👋
@@ -82,9 +83,4 @@
 ---
  
 <div align="center">
- 
-*"Sempre buscando aprender. O código de hoje é a base do amanhã."* 🚀
- 
-![](https://komarev.com/ghpvc/?username=BragaDev150&color=00bfff&style=flat-square&label=Visualizações+do+Perfil)
- 
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0d1117&height=100&section=footer)
