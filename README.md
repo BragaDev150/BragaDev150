@@ -16,7 +16,7 @@
 - 💼 **Desenvolvedor Full Stack**
 - 🔭 Sempre em busca de novos desafios e aprendizados
 - 🎂 **18 anos**
-- 📍 Brasil
+- 📍 Mogi das Cruzes - SP
  
 ---
  
@@ -56,7 +56,6 @@
  
 <div align="center">
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BragaDev150&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaDev150&layout=compact&langs_count=8&theme=tokyonight"/>
  
 </div>
@@ -81,6 +80,12 @@
 </p>
  
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
+</picture>
  
 <div align="center">
 
