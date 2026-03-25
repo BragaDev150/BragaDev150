@@ -55,14 +55,14 @@
  
 <div align="center">
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BragaDev150&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaDev150&layout=compact&langs_count=8&theme=tokyonight"/>
  
 </div>
  
 <div align="center">
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=false&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BragaDev150&theme=tokyonight&hide_border=false&locale=pt_BR)](https://git.io/streak-stats)
  
 </div>
  
@@ -71,7 +71,7 @@
 ## 🌐 Onde me encontrar
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/igorbraga890" target="_blank">
+  <a href="https://www.linkedin.com/in/BragaDev150" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:braga.dev150@gmail.com" target="_blank">
@@ -85,6 +85,6 @@
  
 *"Sempre buscando aprender. O código de hoje é a base do amanhã."* 🚀
  
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=00bfff&style=flat-square&label=Visualizações+do+Perfil)
+![](https://komarev.com/ghpvc/?username=BragaDev150&color=00bfff&style=flat-square&label=Visualizações+do+Perfil)
  
 </div>
