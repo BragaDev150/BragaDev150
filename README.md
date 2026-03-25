@@ -89,4 +89,4 @@
  
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0d1117&height=200&section=footer)
